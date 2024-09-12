@@ -1,0 +1,17 @@
+.home_container{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.2em;
+    padding: 2em;
+}
+
+.home_container span{
+    color: red;
+    padding: 0;
+}
+
+.home_container img{
+    width: 10%;
+}
